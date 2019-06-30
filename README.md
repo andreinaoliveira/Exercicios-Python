@@ -1,2 +1,3 @@
 # Exercicios-Python
-Exercícios resolvidos em Python do Curso em Vídeo 
+Exercícios resolvidos do curso "Python 3 - Mundo I: Fundamentos" do Curso em Vídeo 
+link para a playlist do curso: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
