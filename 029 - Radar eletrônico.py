@@ -4,14 +4,13 @@
 #   A multa vai custar R$7,00 por cada Km acima do limite.
 
 # cores
-cor = {'limpa':'\033[m',
+cor = {'limpa': '\033[m',
        'vermelho': '\033[31m',
-       'amarelo': '\033[33m'
-}
+       'amarelo': '\033[33m'}
 
 velocidade = int(input("Qual a velocidade atual do carro? "))
 
-if velocidade <0:
+if velocidade < 0:
     print("Velocidade Inválida")
 
 elif (velocidade >= 0) and (velocidade <= 80):

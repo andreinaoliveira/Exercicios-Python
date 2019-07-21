@@ -6,4 +6,3 @@ pygame.init()
 pygame.mixer.music.load('endereço')
 pygame.mixer.music.play()
 pygame.event.wait()
-

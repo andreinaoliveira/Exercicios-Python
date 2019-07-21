@@ -3,4 +3,3 @@
 
 nome = str(input("Informe seu nome: "))
 print("É um prazer de conhecer, {}!".format(nome))
-

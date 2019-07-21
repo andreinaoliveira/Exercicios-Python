@@ -6,17 +6,17 @@ b = int(input("Segundo valor: "))
 c = int(input("Terceiro valor: "))
 
 #                   Verificando o maior valor
-if a>b and a>c:
+if a > b and a > c:
     maior = a
-elif b>a and b>c:
+elif b > a and b > c:
     maior = b
 else:
     maior = c
 
 #                   Verificando o menor valor
-if a<b and a<c:
+if a < b and a < c:
     menor = a
-elif b<a and b<c:
+elif b < a and b < c:
     menor = b
 else:
     menor = c
