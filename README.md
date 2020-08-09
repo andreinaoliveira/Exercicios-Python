@@ -19,4 +19,4 @@ Os trê módulos somam 115 exercícios que compõe esse diretório
 
 ## Autores
 
-* **Andreina Oliveira** - *Front-End* - [GitHub](https://github.com/andreinaoliveira)
+* **Andreina Oliveira** - [GitHub](https://github.com/andreinaoliveira)
