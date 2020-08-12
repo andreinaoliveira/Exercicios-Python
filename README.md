@@ -2,7 +2,7 @@
 
 ## Curso em Vìdeo
 
-Curso em vídeo possui um vasto catálogo de cursos grátis voltados para área de TI com ótima qualidade e fonecendo diversos exercícios. Segue link para acesso à plataforma:
+Curso em vídeo possui um vasto catálogo de cursos grátis voltados para área de TI com ótima qualidade e fornecendo diversos exercícios. Segue link para acesso à plataforma:
 [Canal no Youtube](https://www.youtube.com/user/cursosemvideo) e [Site](https://www.cursoemvideo.com/)
 
 ### Curso Python 3
