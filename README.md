@@ -14,8 +14,9 @@ O curso de Python 3 é dividido em três módulos:
 
 ## Exercícios
 
-Os trê módulos somam 115 exercícios que compõe esse diretório
-<br>[Exercícios de Python 3](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+Os três módulos somam 115 exercícios que compõe esse diretório. A resposta contida nesse diretório possuem lógica diferente da playlist de resolução dos exercícios, mas no fim, o resultado é o mesmo.
+<br><br>
+Segue link da playlist da resolução dos exercícios: [Playlist de exercícios em Python 3](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 
 ## Autores
 
