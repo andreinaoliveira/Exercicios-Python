@@ -10,12 +10,12 @@
 # Exercícios Python - Curso em Vídeo
 ### Sobre o Curso em Vídeo
 
-Curso em vídeo possui um vasto catálogo de cursos grátis voltados para área de TI com ótima qualidade e fornecendo diversos exercícios. Segue link para acesso à plataforma:
+Curso em vídeo possui um vasto catálogo de cursos gratuitos voltados para área de TI com ótima qualidade e fornecendo diversos exercícios. Segue link para acesso à plataforma:
 [Canal no Youtube](https://www.youtube.com/user/cursosemvideo) e [Site](https://www.cursoemvideo.com/)
 
 ### Sobre o Curso de Python 3
 
-O curso de Python 3 é dividido em três módulos:
+O curso de Python 3 é dividido em três módulos: Fundamentos, Estruturas de Controle e Estruturas Compostas
 <table>
   <tr>
     <td>
@@ -32,7 +32,7 @@ O curso de Python 3 é dividido em três módulos:
 
 ### Exercícios
 
-Os três módulos somam 115 exercícios que compõe esse diretório. A resposta contida nesse diretório possuem lógica diferente da playlist de resolução dos exercícios, mas no fim, o resultado é o mesmo.
+Os três módulos somam 115 exercícios que compõe esse diretório. As respostas contida nesse diretório possuem lógica diferente da playlist de resolução dos exercícios, mas no fim, o resultado é o mesmo.
 <br><br>
 <table>
   <tr>
@@ -41,7 +41,3 @@ Os três módulos somam 115 exercícios que compõe esse diretório. A resposta 
     </td>
   </tr>
 </table>
-
-### Autores
-
-* **Andreina Oliveira** - [GitHub](https://github.com/andreinaoliveira)
