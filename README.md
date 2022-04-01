@@ -1,4 +1,12 @@
-![Views](https://gpvc.arturio.dev/Exercicios-Python)
+<div align="center">
+  <a href="https://github.com/andreinaoliveira/Exercicios-Python"><img alt="hits" src="https://hits.sh/github.com/andreinaoliveira/Exercicios-Python.svg"/></a>
+  <a href="https://github.com/andreinaoliveira/Exercicios-Python/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/andreinaoliveira/Exercicios-Python"></a>
+  <a href="https://github.com/andreinaoliveira/Exercicios-Python"><img src="https://img.shields.io/badge/status-complete-light"></a>
+  <a href="https://github.com/andreinaoliveira/Exercicios-Python/stargazers"><img src="https://img.shields.io/github/stars/andreinaoliveira/Exercicios-Python?style=social"></a>
+  <a href="https://github.com/andreinaoliveira/Exercicios-Python/network/members"><img src="https://img.shields.io/github/forks/andreinaoliveira/Exercicios-Python?style=social"></a>
+  <a href="https://github.com/andreinaoliveira"><img src="https://img.shields.io/github/followers/andreinaoliveira?style=social"></a>
+</div>
+
 # Exercícios Python - Curso em Vídeo
 ### Sobre o Curso em Vídeo
 
