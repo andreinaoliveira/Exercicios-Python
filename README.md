@@ -1,5 +1,5 @@
+![Views](https://gpvc.arturio.dev/Exercicios-Python)
 # Exercícios Python - Curso em Vídeo
-
 ### Sobre o Curso em Vídeo
 
 Curso em vídeo possui um vasto catálogo de cursos grátis voltados para área de TI com ótima qualidade e fornecendo diversos exercícios. Segue link para acesso à plataforma:
